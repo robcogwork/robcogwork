@@ -2,7 +2,7 @@
 
 ### Front-end - Developer
 
-![kermittyping](https://github.com/robonexx/robonexx/blob/master/kermit-typing.gif)
+[![Robert Wägar](https://github.com/robonexx/robonexx/blob/master/kermit-typing.gif)](https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/)
 
 ### I Love to be creative in everything I do...
  ✨creativity ✨is the best way to solve problems and find new ways for better sollutions
