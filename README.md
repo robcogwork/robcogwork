@@ -56,9 +56,7 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 
  ---
 
-<img align="center" alt="Visual Studio Code" width="300px" src="robIcon.png" />
-
-🚀 I spent my fair time on HTML, CSS and it's frameworks and ofcourse JavaScript both vanilla and frameworks such as React and Next, I also constantly explore new technologies to expand my skills . 
+🚀 I also got LinkedIn Skill Assessments in HTML, CSS, JAVASCRIPT, REACT & FRONTEND-DEVELOPMENT - 🤓
 
 💻 I have a degree from KYH - Frontend education, and I'm currently studying at CME to learn more, at the moment I'm deepdiving in to NEXT and NODE. I've also work with freelancing while studying.
 
@@ -75,6 +73,12 @@ As a developer I'm focused on finding the best solutions for your needs by devel
  - Dance / Locking / Hip-Hop 🕺
  - Game (When something awesome is dropping) 🎮
 
+ ### Currently working on
+ - Working on 2 freelance projects for clients
+ - Studying Backend and webservers using NODE, Express, NEXTjs and Supabase
+ - Sitting on codewars, practice my skills in coding 🚀
+ - Looking for a full time job in coding
+
 ### Have and Idea you want to bring to life?
 - 💬 Reach out and lets have a chat?
 
@@ -83,6 +87,8 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 ✉️ robertwagar0@gmail.com
 
 ---
+
+<img align="center" alt="Visual Studio Code" width="300px" src="robIcon.png" />
 ## Robert Wägar
 - yup that's me, and I'm Locking
 
