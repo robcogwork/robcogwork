@@ -2,7 +2,7 @@
 
 ### Front-end - Developer
 
-<img src="kermit.gif" align="center" alt="Project image" width="100%">
+<img src="kermit.gif" align="center" alt="Project image" width="60%">
 
 ### I Love to be creative in everything I do...
  ✨creativity ✨is the best way to solve problems and find new ways for better sollutions
