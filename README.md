@@ -89,6 +89,8 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 ---
 
 <img align="center" alt="Visual Studio Code" width="300px" src="robIcon.png" />
+
 ## Robert Wägar
+
 - yup that's me, and I'm Locking
 
