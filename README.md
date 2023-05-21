@@ -86,7 +86,7 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 
 #### You can reach me at:
 
-✉️ robertwagar0@gmail.com
+✉️ robertwagar@gmail.com
 
 ---
 
