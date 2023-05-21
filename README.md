@@ -2,7 +2,7 @@
 
 ### Front-end - Developer
 
-<img src="kermit-typing.gif" align="center" alt="Project image" width="400">(https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/)
+<img src="kermit-typing.gif" align="center" alt="Project image" width="100%">
 
 ### I Love to be creative in everything I do...
  ✨creativity ✨is the best way to solve problems and find new ways for better sollutions
