@@ -2,7 +2,7 @@
 
 ### Front-end - Developer
 
-[![Robert Wägar](https://github.com/robonexx/robonexx/blob/master/kermit-typing.gif)](https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/)
+<img src="kermit-typing.gif" align="center" alt="Project image" width="400">(https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/)
 
 ### I Love to be creative in everything I do...
  ✨creativity ✨is the best way to solve problems and find new ways for better sollutions
@@ -16,10 +16,10 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 ### You can find me at:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/" target="blank"><img align="center" src="https://github.com/robonexx/robonexx/blob/master/socials/LinkedIN.png" alt="" height="30" /></a>
-<a href="https://github.com/robonexx" target="blank"><img align="center" src="https://github.com/robonexx/robonexx/blob/master/socials/Github.png" alt="" height="30" /></a>
-<a href="https://codepen.io/robertwagar" target="blank"><img align="center" src="https://github.com/robonexx/robonexx/blob/master/socials/Codeopen.png" alt="" height="30" /></a>
-<img align="center" src="https://github.com/robonexx/robonexx/blob/master/socials/Discord.png" alt="" height="30" />
+<a href="https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/" target="blank"><img align="center" src="socials/LinkedIN.png" alt="" height="30" /></a>
+<a href="https://github.com/robonexx" target="blank"><img align="center" src="socials/Github.png" alt="" height="30" /></a>
+<a href="https://codepen.io/robertwagar" target="blank"><img align="center" src="socials/Codeopen.png" alt="" height="30" /></a>
+<img align="center" src="socials/Discord.png" alt="" height="30" />
 </p>
 
 ## Tech I work with
