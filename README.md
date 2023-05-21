@@ -56,7 +56,7 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 
  ---
 
-<img align="center" alt="Visual Studio Code" width="300px" src="https://github.com/robonexx/robonexx/blob/master/robIcon.png" />
+<img align="center" alt="Visual Studio Code" width="300px" src="robIcon.png" />
 
 🚀 I spent my fair time on HTML, CSS and it's frameworks and ofcourse JavaScript both vanilla and frameworks such as React and Next, I also constantly explore new technologies to expand my skills . 
 
