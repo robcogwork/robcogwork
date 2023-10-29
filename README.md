@@ -1,33 +1,25 @@
-### Hi there 👋 I'm Rob 😀
+![heroimage](https://github.com/robonexx/robonexx/blob/main/robIcon.png)
 
-### Front-end - Developer
+### Hello there 👋 I'm Rob 😀
 
-<p align="center">
-<img src="kermit.gif"  alt="Project image" width="480" height="320" >
-</p>
+Developer with a passion for Frontend 
 
-### I Love to be creative in everything I do...
- ✨creativity ✨is the best way to solve problems and find new ways for better sollutions
+<!-- <p align="center">
+<img src="robIcon.png"  alt="Project image" width="480" height="320" >
+</p> -->
 
-I´m a developer with focus on creating smart user interfaces & useful interactions
+### ✨creativity ✨is the best way to solve problems and find new ways for better sollutions
 
-My design is equally about what it does as much as how it attracts the eye
+* I´m a developer with focus on creating smart user interfaces & useful interactions
 
-As a developer I'm focused on finding the best solutions for your needs by developing rich web experiences & applications for your users
+* developing rich web experiences & applications
 
-### You can find me at:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/" target="blank"><img align="center" src="socials/LinkedIN.png" alt="" height="30" /></a>
-<a href="https://github.com/robonexx" target="blank"><img align="center" src="socials/Github.png" alt="" height="30" /></a>
-<a href="https://codepen.io/robertwagar" target="blank"><img align="center" src="socials/Codeopen.png" alt="" height="30" /></a>
-<img align="center" src="socials/Discord.png" alt="" height="30" />
-</p>
+* I like both logic and design
 
 ## Tech I work with
-<details>
+<!-- <details>
 
-<summary>🛠 The Languages and Tools I use</summary>
+<summary># 🛠 The Languages and Tools I use</summary> -->
 
 |  Language/Tool  |  Icon  |  Description  |
 | --- | --- | --- |
@@ -44,13 +36,13 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 | Postman |  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> | An API platform for building and using APIs.  |
 | Typescript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | Syntactic superset of JavaScript which adds static typing to the language |
 
-- where we all start =>
+- Where most of us start =>
 
 ```javascript
    console.log("Hello World!)"
 ```
 
-</details>
+<!-- </details> -->
  
  <br>
 
@@ -60,39 +52,39 @@ As a developer I'm focused on finding the best solutions for your needs by devel
 
 🚀 I also got LinkedIn Skill Assessments in HTML, CSS, JAVASCRIPT, REACT & FRONTEND-DEVELOPMENT - 🤓
 
-💻 I have a degree from KYH - Frontend education, and I'm currently studying at CME to learn more, at the moment I'm deepdiving in to NEXT and NODE. I've also work with freelancing while studying.
+💻 I have a degree from KYH - Frontend education
+I'm studying my second education at CME (2nd year)
+Currently working on 2 freelance projects using sanity as cms and NEXT
+Also an assignment at CME using Typescript, NEXT, Tailwind, recharts, radix
 
 🚀 I'm always for the lookout and trying to stay up-to-date on the latest trends.
 
-💻 The goal is to become a certified full-stack developer. With the constant evolution in technology, I believe that this is the right field to work in, in this time and it is important to stay ahead of the curve in order to deliver the best possible sollutions for clients. 
+💻 The goal is to become a fulltime developer. 
+With the constant evolution in technology, I believe that this is the right field to work in.
+It is important to stay ahead of the curve in order to deliver the best possible sollutions for the clients. 
 
 
-### What I love doing
+### What I love doing (besides coding)
 
  - Family time 🥰
- - Coding 🤓
- - Drink a good cup of ☕
- - Dance / Locking / Hip-Hop 🕺
+ - Drink a good cup of ☕ or tea
+ - Dance my passion goes deep with the artform of Locking / Hip-Hop 🕺
  - Game (When something awesome is dropping) 🎮
-
- ### Currently working on
- - Working on 2 freelance projects for clients
- - Studying Backend and webservers using NODE, Express, NEXTjs and Supabase
- - Sitting on codewars, practice my skills in coding 🚀
- - Looking for a full time job in coding
 
 ### Have and Idea you want to bring to life?
 - 💬 Reach out and lets have a chat?
 
+### You can find me at:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/" target="blank"><img align="center" src="socials/LinkedIN.png" alt="" height="30" /></a>
+<a href="https://github.com/robonexx" target="blank"><img align="center" src="socials/Github.png" alt="" height="30" /></a>
+<a href="https://codepen.io/robertwagar" target="blank"><img align="center" src="socials/Codeopen.png" alt="" height="30" /></a>
+<img align="center" src="socials/Discord.png" alt="" height="30" />
+</p>
+
+
 #### You can reach me at:
 
 ✉️ robertwagar@gmail.com
-
----
-
-<img align="center" alt="Visual Studio Code" width="300px" src="robIcon.png" />
-
-## Robert Wägar
-
-- yup that's me, and I'm Locking
 
