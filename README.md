@@ -77,10 +77,9 @@ It is important to stay ahead of the curve in order to deliver the best possible
 ### You can find me at:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/" target="blank"><img align="center" src="socials/LinkedIN.png" alt="" height="30" /></a>
-<a href="https://github.com/robonexx" target="blank"><img align="center" src="socials/Github.png" alt="" height="30" /></a>
-<a href="https://codepen.io/robertwagar" target="blank"><img align="center" src="socials/Codeopen.png" alt="" height="30" /></a>
-<img align="center" src="socials/Discord.png" alt="" height="30" />
+<a href="https://www.linkedin.com/in/robert-w%C3%A4gar-1b4661139/" target="_blank"><img align="center" src="socials/LinkedIN.png" alt="" height="30" /></a>
+<a href="https://github.com/robonexx" target="_blank"><img align="center" src="socials/Github.png" alt="" height="30" /></a>
+<a href="https://codepen.io/robertwagar" target="_blank"><img align="center" src="socials/Codeopen.png" alt="" height="30" /></a>
 </p>
 
 
