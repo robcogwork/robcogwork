@@ -1,77 +1,94 @@
-![heroimage](https://github.com/robonexx/robonexx/blob/main/robIcon.png)
-
 ### Hello there 👋 I'm Rob 😀
 
-Developer with a passion for Frontend 
+<p align="left">
+<img src="robIcon.png"  alt="Project image" width="160" height="160" >
+</p>
 
-<!-- <p align="center">
-<img src="robIcon.png"  alt="Project image" width="480" height="320" >
-</p> -->
+### A ✨creativity ✨ minded frontend developer 
+### Creativity is the best way to solve problems and find new ways for better sollutions
 
-### ✨creativity ✨is the best way to solve problems and find new ways for better sollutions
+- I´m a _developer_ with focus on _creating smart user interfaces & useful interactions_
 
-* I´m a developer with focus on creating smart user interfaces & useful interactions
+- developing rich web experiences & applications
 
-* developing rich web experiences & applications
+- I like both logic and design
 
-* I like both logic and design
+# Education
 
-## Tech I work with
-<!-- <details>
+I'm currently studying _Frontend / App Development_ at [Changemaker Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer) (2022-2024)
+<br/>
+I'm currently doing an internship at [Degaming](https://degaming.io/)
 
-<summary># 🛠 The Languages and Tools I use</summary> -->
+## This is some of my favorite tech I often use
 
-|  Language/Tool  |  Icon  |  Description  |
-| --- | --- | --- |
-| HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> </a> | Standard markup language for creating web pages and web applications |
-| CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> </a> | Style sheet language used for describing the presentation of a document written in HTML or XML |
-| SASS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/> </a> | Syntactically Awesome Style Sheets an awesome css framework |
-| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | High-level programming language that is commonly used to create interactive effects within web browsers |
-| React.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> | JavaScript library for building user interfaces or UI components |
-| Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="40" height="40"/> </a> | JavaScript library for building user interfaces or UI components |
-| MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> | NoSQL document database that uses JSON-like documents with optional schemas |
-| Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> | Open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser |
-| Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> | Free and open-source distributed version control system designed to handle everything from small to very large projects |
-| Figma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> | Cloud-based design and prototyping tool |
-| Postman |  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> | An API platform for building and using APIs.  |
-| Typescript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | Syntactic superset of JavaScript which adds static typing to the language |
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js 14-000?style=for-the-badge&logo=nextdotjs&logoColor=888" />
+  <img alt="React" src="https://img.shields.io/badge/react-000?style=for-the-badge&logo=react" />
+  <img alt="Vite" src="https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=ffc30b" />
+   <img alt="Sass" src="https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript" />
+</p>
+<p>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript" />
+  <img alt="HTML 5" src="https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5" />
+   <img alt="CSS 3" src="https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb" />
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=nodedotjs" />
+  <img alt="Postman" src="https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman" />
+</p>
 
-- Where most of us start =>
+## Additional tech & some I worked with in projects
 
-```javascript
-   console.log("Hello World!)"
-```
-
-<!-- </details> -->
+<p>
+ <img alt="Git" src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git" />
+  <img alt="VS Code" src="https://img.shields.io/badge/vs code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/wordpress-000?style=for-the-badge&logo=wordpress" />
+  <img alt="GraphQl" src="https://img.shields.io/badge/graphql-000?style=for-the-badge&logo=graphql" />
+  <img alt="Rest-API" src="https://img.shields.io/badge/restapi-000?style=for-the-badge&logo=restapi" />
+  <img alt="MUI" src="https://img.shields.io/badge/mui-000?style=for-the-badge&logo=mui" />
+</p>
+<p>
+   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind-000?style=for-the-badge&logo=tailwindcss" />
+   <img alt="Firebase" src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase" />
+   <img alt="Less" src="https://img.shields.io/badge/less-000?style=for-the-badge&logo=less" />
+   <img alt="Styled-Components" src="https://img.shields.io/badge/styledcomponents-000?style=for-the-badge&logo=styledcomponents" />
+   <img alt="Framer-motion" src="https://img.shields.io/badge/framermotion-000?style=for-the-badge&logo=framermotion" />
+   <img alt="Anime.js" src="https://img.shields.io/badge/anime.js-000?style=for-the-badge&logo=animedotjs" />
+     <img alt="Viem" src="https://img.shields.io/badge/viem-000?style=for-the-badge&logo=viem" />  
+   <img alt="Wagmi" src="https://img.shields.io/badge/wagmi-000?style=for-the-badge&logo=wagmi" />
+</p>
  
  <br>
 
  <br>
 
- ---
+# Work
 
-🚀 I also got LinkedIn Skill Assessments in HTML, CSS, JAVASCRIPT, REACT & FRONTEND-DEVELOPMENT - 🤓
+Currently working as an intern at DeGamingGroup
+2 freelance projects using sanity as cms and NEXT with framer-motion for MBA and LockerLegends
+Freelance project for Danscenter Fryshuset a communication app for the school
+Worked at Addcode in fall/spring 2022 
+Upcoming wordpress website for and under the lead of Dans.se
+Done prototyping for a few startups and upcoming projects thru CME Swipe-north and Jolint
 
-💻 I have a degree from KYH - Frontend education
-I'm studying my second education at CME (2nd year)
-Currently working on 2 freelance projects using sanity as cms and NEXT
-Also an assignment at CME using Typescript, NEXT, Tailwind, recharts, radix
+## 🚀 I'm always on the lookout and trying to stay up-to-date on the latest trends.
 
-🚀 I'm always for the lookout and trying to stay up-to-date on the latest trends.
-
-💻 The goal is to become a fulltime developer. 
+💻 The goal is to become a fulltime developer.
 With the constant evolution in technology, I believe that this is the right field to work in.
-It is important to stay ahead of the curve in order to deliver the best possible sollutions for the clients. 
+It is important to stay ahead of the curve in order to deliver the best possible sollutions for the clients.
 
+🚀 LinkedIn Skill Assessments in HTML, CSS, JAVASCRIPT, REACT & FRONTEND-DEVELOPMENT - 🤓
 
 ### What I love doing (besides coding)
 
- - Family time 🥰
- - Drink a good cup of ☕ or tea
- - Dance my passion goes deep with the artform of Locking / Hip-Hop 🕺
- - Game (When something awesome is dropping) 🎮
+- Family time 🥰
+- Drink a good cup of ☕ or tea
+- Dance my passion goes deep with the artform of Locking & Hip-Hop 🕺
 
 ### Have and Idea you want to bring to life?
+
 - 💬 Reach out and lets have a chat?
 
 ### You can find me at:
@@ -82,8 +99,6 @@ It is important to stay ahead of the curve in order to deliver the best possible
 <a href="https://codepen.io/robertwagar" target="_blank"><img align="center" src="socials/Codeopen.png" alt="" height="30" /></a>
 </p>
 
-
 #### You can reach me at:
 
 ✉️ robertwagar@gmail.com
-
