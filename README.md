@@ -1,10 +1,10 @@
-### Hello there 👋 I'm Rob 😀
+### Hello there 👋 I'm Robert Wägar 😀
 
 <p align="left">
 <img src="robIcon.png"  alt="Project image" width="160" height="160" >
 </p>
 
-### A ✨creativity ✨ minded frontend developer 
+### A ✨creativity ✨ minded developer focusing on frontend and webdevelopment 
 ### Creativity is the best way to solve problems and find new ways for better sollutions
 
 - I´m a _developer_ with focus on _creating smart user interfaces & useful interactions_
@@ -17,7 +17,7 @@
 
 I'm currently studying _Frontend / App Development_ at [Changemaker Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer) (2022-2024)
 <br/>
-I'm currently doing an internship at [Degaming](https://degaming.io/)
+I'm currently working at [Cogwork](https://cogwork.se/)
 
 ## This is some of my favorite tech I often use
 
@@ -66,11 +66,12 @@ I'm currently doing an internship at [Degaming](https://degaming.io/)
 
 # Work
 
-Currently working as an intern at DeGamingGroup
-2 freelance projects using sanity as cms and NEXT with framer-motion for MBA and LockerLegends
+Currently working as a Frontend / webdeveloper at Cogwork AB and diving in to fullstack later this year
+Got a few freelance projects using sanity as cms and NEXT with framer-motion for MBA and LockerLegends
 Freelance project for Danscenter Fryshuset a communication app for the school
+Worked at Degaming group spring 2024
 Worked at Addcode in fall/spring 2022 
-Upcoming wordpress website for and under the lead of Dans.se
+
 Done prototyping for a few startups and upcoming projects thru CME Swipe-north and Jolint
 
 ## 🚀 I'm always on the lookout and trying to stay up-to-date on the latest trends.
