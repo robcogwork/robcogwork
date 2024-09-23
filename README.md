@@ -15,8 +15,11 @@
 
 # Education
 
-I'm currently studying _Frontend / App Development_ at [Changemaker Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer) (2022-2024)
-<br/>
+I studied at _Frontend / App Development_ at [Changemaker Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer) (2022-2024)
+<br/><br/>
+
+#Work
+
 I'm currently working at [Cogwork](https://cogwork.se/)
 
 ## This is some of my favorite tech I often use
