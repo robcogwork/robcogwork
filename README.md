@@ -18,7 +18,7 @@
 I studied at _Frontend / App Development_ at [Changemaker Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer) (2022-2024)
 <br/><br/>
 
-#Work
+# Work
 
 I'm currently working at [Cogwork](https://cogwork.se/)
 
