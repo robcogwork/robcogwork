@@ -105,4 +105,4 @@ It is important to stay ahead of the curve in order to deliver the best possible
 
 #### You can reach me at:
 
-✉️ robertwagar@gmail.com
+✉️ robert@cogwork.se
